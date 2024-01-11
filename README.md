@@ -1,3 +1,3 @@
-# frotend-metors-exercises
+# Frontend Mentors Excercises
 
-- [https://heychobe.github.io/frotend-metors-exercises/qr-code-component-main/index.html](qr-code-component-main)
+- [QR code component](https://heychobe.github.io/frotend-metors-exercises/qr-code-component-main/index.html)
